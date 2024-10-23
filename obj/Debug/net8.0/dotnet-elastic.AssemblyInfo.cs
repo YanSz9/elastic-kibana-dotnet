@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("dotnet-elastic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de985a1e37f0a3d3d37ab74dcdbdef764c14a5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("dotnet-elastic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("dotnet-elastic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
