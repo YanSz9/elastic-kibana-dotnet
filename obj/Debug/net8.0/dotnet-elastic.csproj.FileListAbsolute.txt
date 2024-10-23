@@ -1,0 +1,7 @@
+C:\dev\projects\dotnet-elastic\obj\Debug\net8.0\dotnet-elastic.csproj.AssemblyReference.cache
+C:\dev\projects\dotnet-elastic\obj\Debug\net8.0\dotnet-elastic.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\projects\dotnet-elastic\obj\Debug\net8.0\dotnet-elastic.AssemblyInfoInputs.cache
+C:\dev\projects\dotnet-elastic\obj\Debug\net8.0\dotnet-elastic.AssemblyInfo.cs
+C:\dev\projects\dotnet-elastic\obj\Debug\net8.0\dotnet-elastic.csproj.CoreCompileInputs.cache
+C:\dev\projects\dotnet-elastic\obj\Debug\net8.0\dotnet-elastic.MvcApplicationPartsAssemblyInfo.cs
+C:\dev\projects\dotnet-elastic\obj\Debug\net8.0\dotnet-elastic.MvcApplicationPartsAssemblyInfo.cache
